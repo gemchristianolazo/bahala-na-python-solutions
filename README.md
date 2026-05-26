@@ -7,7 +7,7 @@ This repository contains my personal solutions, custom feature implementations, 
 ## Progress Tracker
 
 ### Part 1: Fundamentals
-* [ ] [Chapter 3: Variables, Data Types, and the Sari-Sari Store](part-1-fundamentals/chapter-03-variables.ipynb)
+* [x] [Chapter 3: Variables, Data Types, and the Sari-Sari Store](part-1-fundamentals/chapter-03-variables.ipynb)
 * [ ] [Chapter 4: Comparisons and Truth Values at the Store](part-1-fundamentals/chapter-04-comparisons.ipynb)
 * [ ] [Chapter 5: If, Else, and Simple Branching at the Store](part-1-fundamentals/chapter-05-branching.ipynb)
 * [ ] [Chapter 6: And, Or, Not](part-1-fundamentals/chapter-06-logic-operators.ipynb)

@@ -13,7 +13,7 @@ This repository contains my personal solutions, custom feature implementations, 
 * [x] [Chapter 6: And, Or, Not](part-1-fundamentals/chapter-06-logic-operators.ipynb)
 * [x] [Chapter 7: Loops and Repeated Checks at the Store](part-1-fundamentals/chapter-07-loops.ipynb)
 * [x] [Chapter 8: Functions and Reusable Helpers](part-1-fundamentals/chapter-08-functions.ipynb)
-* [x] [Chapter 9: Files and JSON for the Store](part-1-fundamentals/chapter-09-files-json.ipynb)
+* [x] [Chapter 9: Files and JSON for the Store](part-1-fundamentals/chapter-09-files-json/chapter-09-files-json.py)
 * [ ] [Chapter 10: Boss Fight 1 — The Complete Sari-Sari Store System](part-1-fundamentals/chapter-10-boss-fight-1.ipynb)
 
 ### Part 2: Building Things

@@ -1,0 +1,26 @@
+{
+    "sardines": {
+        "qty": 12,
+        "price": 26
+    },
+    "candy": {
+        "qty": 60,
+        "price": 2
+    },
+    "instant noodles": {
+        "qty": 15,
+        "price": 17
+    },
+    "bread": {
+        "qty": 0,
+        "price": 8
+    },
+    "zesto": {
+        "qty": 4,
+        "price": 12
+    },
+    "softdrinks": {
+        "qty": 3,
+        "price": 15
+    }
+}
